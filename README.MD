@@ -1,1 +1,1 @@
-Podcast Summarizer
+Podcast summarizer using PEGASUS abstractive summerization model
